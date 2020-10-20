@@ -1,1 +1,2 @@
-#uma série de exercícios práticos para exercitar
+#Linguagem Phyton
+##Primeiros exercícios com a linguagem Phyton
