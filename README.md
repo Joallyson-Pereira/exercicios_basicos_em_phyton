@@ -1,3 +1,4 @@
-# Linguagem Phyton
-## Primeiros exercícios com a linguagem Phyton
+## Primeiros exercícios com a linguagem Phyton :mortar_board:
+
+
 
